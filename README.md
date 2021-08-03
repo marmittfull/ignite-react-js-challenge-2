@@ -1,6 +1,6 @@
 <div align="center">
   <img alt="Rocket"
-    src="https://hotmart.s3.amazonaws.com/product_contents/0569fee6-8c8f-4dee-a46d-80102ced177a/Header_Product_1920x450.jpg"
+    src="https://repository-images.githubusercontent.com/349580600/5cda7b00-8a49-11eb-86b7-bc949c6b787d"
   />
 
 </div>
