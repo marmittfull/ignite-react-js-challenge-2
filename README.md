@@ -15,7 +15,7 @@
 
 <blockquote align="center">
   This project is part of the project:
-    <a href="https://repository-images.githubusercontent.com/341683746/42e1ab80-77af-11eb-9e07-47f9e46b3e6e">
+    <a href="https://rocketseat.com.br/ignite">
       Ignite ReactJS by RocketSeat
     </a> 
 </blockquote>
